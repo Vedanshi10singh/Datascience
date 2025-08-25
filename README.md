@@ -24,3 +24,4 @@ Analyzed COVID-19 dataset (CSV) to explore daily cases, deaths, and recovery tre
 1. Clone the repo:
    ```bash
    git clone https://github.com/vedanshi10singh/datascience.git
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vedanshi10singh/Datascience/blob/main/COVID19.ipynb)
